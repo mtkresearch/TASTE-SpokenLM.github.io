@@ -1,0 +1,9 @@
+{
+    "orig_text": "Tom: Hi! How are you today? END Jerry: I'm good, thanks! How about you? END Tom: Not bad. Just a bit tired from work. END Jerry: Me too. END Tom: ",
+    "generated_text": "I've got a few minutes to talk to you.",
+    "extra_words": 3,
+    "text_top_p": 0.4,
+    "taste_top_p": 0.0,
+    "text_temperature": 1.5,
+    "repetition_penalty": 1.3
+}
